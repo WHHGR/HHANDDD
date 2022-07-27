@@ -283,7 +283,7 @@ public class VodController extends BaseController {
                 }
             }
         });
-        //        增加播放页面片头片尾时间重置
+//        增加播放页面片头片尾时间重置
         findViewById(R.id.play_time_reset).setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
